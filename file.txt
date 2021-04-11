@@ -1,5 +1,6 @@
 
-maktabkhoneh
+Maktabkhoneh (virtual inistitution)
 
 Git learning in maktabkhoneh course
 
+git clone : Clone a repository into a new directory
